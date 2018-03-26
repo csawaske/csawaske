@@ -1,10 +1,11 @@
 intro: ""
 projects:
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: <a href="https://github.com/csawaske/BGGAnalysis">BoardGameGeek.com data analysis</a>
+    tagline:"A repository of statistics and information about board games taken from BoardGameGeek.com, along with an R script for analysis and some plots."
+  - project:
+    title: <a href="https://github.com/csawaske/Player-tracker-for-Destiny">Destiny player counter</a>
+    tagline: "A pair of scripts in R and Java used to connect to Bungie's API for the videogame Destiny, download a user's data, then produce a list of all other users encountered in-game and the number of occurrences."
   - project:
     title: <a href="https://github.com/csawaske/MusicProjects">PureData patches</a>
-    link: "#"
     tagline: "A collection of patches, including a variety of synthesizers, a pitch tracker, and an emulation of Stockhausen's <i>Kontakte</i>."
