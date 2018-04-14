@@ -11,5 +11,8 @@
   name: Python
   level: 75%
 - skill:
+  name: Tableau
+  level: 75%
+- skill:
   name: PureData
   level: 60%
