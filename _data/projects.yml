@@ -1,6 +1,9 @@
 intro: ""
 projects:
   - project:
+    title: <a href="https://sites.math.washington.edu/~sawaske/proj/sawaske_a2.html">Chicago crime analysis</a>
+    tagline: "Some exploratory data analysis of the Chicago crime dataset."
+  - project:
     title: <a href="https://github.com/csawaske/BGGAnalysis">BoardGameGeek.com data analysis</a>
     tagline: "A repository of statistics and information about board games taken from BoardGameGeek.com, along with an R script for analysis and some plots."
   - project:
