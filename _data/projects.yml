@@ -1,5 +1,11 @@
 intro: ""
 projects:
+ - project:
+    title: <a href="https://cse512-18s.github.io/A3-washington-wildfires/">Washington wildfires</a>
+    tagline: "Some basic mapping and filtering tools to analyze large wildfires in Washington state."
+  - project:
+    title: <a href="https://cse512-18s.github.io/vulnerability-mapping/index.html">Mapping dengue cases</a>
+    tagline: "In collaboration with the UW MetaCenter for Global Disease Preparedness, these tools allow researchers to examine temporal and geographic trends in Peru's dengue outbreaks."
   - project:
     title: <a href="https://sites.math.washington.edu/~sawaske/proj/sawaske_a2.html">Chicago crime analysis</a>
     tagline: "Some exploratory data analysis of the Chicago crime dataset."
