@@ -1,6 +1,6 @@
 intro: ""
 projects:
- - project:
+  - project:
     title: <a href="https://cse512-18s.github.io/A3-washington-wildfires/">Washington wildfires</a>
     tagline: "Some basic mapping and filtering tools to analyze large wildfires in Washington state."
   - project:
