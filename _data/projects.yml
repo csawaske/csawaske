@@ -12,7 +12,7 @@ projects:
   - project:
     title: <a href="https://github.com/csawaske/BGGAnalysis">BoardGameGeek.com data analysis</a>
     tagline: "A repository of statistics and information about board games taken from BoardGameGeek.com, along with an R script for analysis and some plots."
- - project:
+  - project:
     title: <a href="https://github.com/csawaske/LowerBounds.pdf"><s>Tight</s> Lower bounds implied by SETH</a>
     tagline: "A paper examining some implications of the Strong Exponential Time Hypothesis (SETH) by translating the problem of k-CNF solvability to cycle detection in graphs."
   - project:
