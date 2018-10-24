@@ -12,6 +12,9 @@ projects:
   - project:
     title: <a href="https://github.com/csawaske/BGGAnalysis">BoardGameGeek.com data analysis</a>
     tagline: "A repository of statistics and information about board games taken from BoardGameGeek.com, along with an R script for analysis and some plots."
+ - project:
+    title: <a href="https://github.com/csawaske/LowerBounds.pdf"><s>Tight</s> Lower bounds implied by SETH</a>
+    tagline: "A A paper examining some implications of the Strong Exponential Time Hypothesis (SETH) by translating the problem of k-CNF solvability to cycle detection in graphs."
   - project:
     title: <a href="https://github.com/csawaske/Player-tracker-for-Destiny">Destiny player counter</a>
     tagline: "A pair of scripts in R and Java used to connect to Bungie's API for the videogame Destiny, download a user's data, then produce a list of all other users encountered in-game and the number of occurrences."
